@@ -1,1 +1,1 @@
-# Fuzzy-em-python
+# Fuzzy em Python
